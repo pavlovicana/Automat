@@ -1,0 +1,7 @@
+C:\Users\Tamara\Desktop\Anin_zadatak2\Automat\Pice\obj\Debug\Automat.csprojResolveAssemblyReference.cache
+C:\Users\Tamara\Desktop\Anin_zadatak2\Automat\Pice\obj\Debug\Automat.csproj.CoreCompileInputs.cache
+C:\Users\Tamara\Desktop\Anin_zadatak2\Automat\Pice\bin\Debug\Pice.exe.config
+C:\Users\Tamara\Desktop\Anin_zadatak2\Automat\Pice\bin\Debug\Pice.exe
+C:\Users\Tamara\Desktop\Anin_zadatak2\Automat\Pice\bin\Debug\Pice.pdb
+C:\Users\Tamara\Desktop\Anin_zadatak2\Automat\Pice\obj\Debug\Pice.exe
+C:\Users\Tamara\Desktop\Anin_zadatak2\Automat\Pice\obj\Debug\Pice.pdb
